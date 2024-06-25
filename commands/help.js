@@ -36,7 +36,7 @@ module.exports = {
         });
 
         // Add footer text
-        helpMessage += `\n *made by dev*`;
+        helpMessage += `\n **YGamer**`;
 
         // Split the help message into chunks of 2000 characters
         const messageChunks = helpMessage.match(/[\s\S]{1,2000}/g);
