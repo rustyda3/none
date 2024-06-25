@@ -20,8 +20,8 @@ module.exports = {
             // Send the image as a separate message
             await message.channel.send({
                 files: [{
-                    attachment: 'https://cdn.discordapp.com/attachments/1255083680569753674/1255084354716303400/UPI-Collect.png?ex=667bd7e4&is=667a8664&hm=50e1099dfb96e896af0d5dc2522f80fa95f04303f2fffbbc48f87e4113d3a270&', // Example: './images/upi_qr_code.png'
-                    name: 'https://cdn.discordapp.com/attachments/1255083680569753674/1255084354716303400/UPI-Collect.png?ex=667bd7e4&is=667a8664&hm=50e1099dfb96e896af0d5dc2522f80fa95f04303f2fffbbc48f87e4113d3a270&'
+                    attachment: 'https://cdn.discordapp.com/attachments/1250496035814379573/1255145776561258567/IMG-20240625-WA0017.jpg?ex=667c1118&is=667abf98&hm=a2655c2eee595503f2383a1a3b8d39a72cdbead3c36e4c36552e9d227893a602&', // Example: './images/upi_qr_code.png'
+                    name: 'https://cdn.discordapp.com/attachments/1250496035814379573/1255145776561258567/IMG-20240625-WA0017.jpg?ex=667c1118&is=667abf98&hm=a2655c2eee595503f2383a1a3b8d39a72cdbead3c36e4c36552e9d227893a602&'
                 }]
             });
         } catch (error) {
