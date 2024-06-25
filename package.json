@@ -1,0 +1,25 @@
+{
+  "name": "rockselfbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "@types/node": "^18.0.6",
+    "ascii-table": "^0.0.9",
+    "authkey": "^1.4.0",
+    "axios": "^1.6.8",
+    "discord-webhook-node": "^1.1.8",
+    "discord.js-selfbot-v13": "^3.1.4",
+    "figlet": "^1.7.0",
+    "libsodium": "^0.7.13",
+    "play-dl": "^1.9.7",
+    "punycode": "^2.3.1"
+  }
+}
