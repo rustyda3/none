@@ -1,4 +1,3 @@
-const Eris = require("eris");
 const keep_alive = require('./keep_alive.js')
 
 const { Client } = require('discord.js-selfbot-v13');
